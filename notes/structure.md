@@ -1,12 +1,15 @@
 # Database structure
 
-## University
+## University x
 
-- Name
-- City
-- [lat, lng]
+- name
+- city
+- address
+- phone_number
+- logo_url
+- url
 
-## Study (? -> )
+## Study x
 
 - id
 - University (FK)
@@ -33,23 +36,22 @@
 - Matriculación (? date / timestamp)
 - Oficial
 - Periodo Examenes (timestamp)
-- Faculty
 
-## Contact
+## Contact -
 - University (FK)
 - Phone
 - Fax
 - Email
 (?)
 
-## Course
+## Course x
 
 - id
 - Study (FK) --> (each course belongs to a specific study)
 - Subjects (count)
 - Credits (count)
 
-## Subject
+## Subject X
 
 - id
 - Code (not a PK)
@@ -72,6 +74,24 @@
 - Departamento
 - Facultad
 
+Bibliography x
+- id
+- title
+- link
+- total_pages
+- last_edition
+- price
+
+Author
+- id
+- fullname
+
+BibliographyAuthorRelation X
+BibliographySubjectRelation X
+LanguageSubjectRelation x
+
+Faculty x
+
 Evaluación Asignatura
 - id
 - Asignatura (id)
@@ -83,7 +103,7 @@ Evaluación Asignatura
 - Mínima nota para aprobar (con evaluación continua)
 - Mínima nota para sumar a la evaluación continua
 
-Docente
+Lecturer X
 - id
 - Asignatura (id)
 - Nombre
@@ -91,6 +111,9 @@ Docente
 - Correo
 - Teléfono
 - Facultad
+
+Lecturer<>Subject x
+Lecturer<>Department x
 
 Practicas
 - id
@@ -114,10 +137,3 @@ https://descargas.uned.es/publico/pdf/guias/grados/Permanencia_est_conducentes_t
 
 Normativa Asignatura
 https://descargas.uned.es/publico/pdf/guias/grados/NORMATIVA_TFG.pdf
-
-Material
-- id
-- Asignatura (id)
-- Nombre
-- Recursos
-- Precio Aproximado

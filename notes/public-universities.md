@@ -1,8 +1,8 @@
-Universidad Autónoma de Barcelona http://www.uab.es/ 
-Universidad Autónoma de Madrid http://www.uam.es/ 
-Universidad Carlos III de Madrid http://www.uc3m.es/ 
+Universidad Autónoma de Barcelona http://www.uab.es/
+Universidad Autónoma de Madrid http://www.uam.es/
+Universidad Carlos III de Madrid http://www.uc3m.es/
 Universidad Complutense de Madrid http://www.ucm.es/ 
-Universidad de A Coruña http://www.udc.es/ 
+Universidad de A Coruña http://www.udc.es/
 Universidad de Alcalá http://www.uah.es/ 
 Universidad de Alicante http://www.ua.es/ 
 Universidad de Almería http://www.ual.es/ 
