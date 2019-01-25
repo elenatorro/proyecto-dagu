@@ -231,7 +231,3 @@ CREATE TABLE permanence_regulation(
   url VARCHAR (50) NOT NULL
 );
 ```
-
-Ideas:
-- Apply text summarization tools to texts. This will allow us to compare subjects / studies.
-- Apply important words extraction tools to texts. This will allow us to compare subjects / studies.

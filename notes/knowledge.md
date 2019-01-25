@@ -116,3 +116,7 @@
 
 - Show the number of registered users, interactions and generated reports in the last month.
 - Are you a private University in Spain? Write me an email and we can talk.
+
+Ideas:
+- Apply text summarization tools to texts. This will allow us to compare subjects / studies.
+- Apply important words extraction tools to texts. This will allow us to compare subjects / studies.
