@@ -9,6 +9,7 @@ These are the resources I used to set up and learn how to create a PSQL database
 * Install: https://www.youtube.com/watch?v=xaWlS9HtWYw
 * Queries: http://www.postgresqltutorial.com/postgresql-cheat-sheet/
 * Node JS + PSQL: https://mherman.org/blog/postgresql-and-nodejs/
+* Postgresql + Docker compose: https://www.youtube.com/watch?v=o3N5bzD6Qb8
 
 ## Queries
 
