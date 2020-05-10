@@ -7,6 +7,10 @@ verify_ssl = true
 
 [packages]
 jupyter = "*"
+requests = "*"
+tabula = "*"
+beautifulsoup = "*"
+pandas = "*"
 
 [requires]
 python_version = "3.7"

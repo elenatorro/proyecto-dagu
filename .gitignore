@@ -1,7 +1,8 @@
 .DS_store
 node_modules
 .notes
+.ipynb_checkpoints
 notebooks/universidades/bin
 notebooks/universidades/include
 notebooks/universidades/lib
-notebooks/universidades/universidad-nacional-de-educacion-a-distancia*.csv
+notebooks/universidades/uned/grados/universidad-nacional-de-educacion-a-distancia*.csv
