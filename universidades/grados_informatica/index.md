@@ -9,8 +9,8 @@ Esta es una lista orientativa de los grados relacionados con la Informática y l
 https://www.uab.cat/
 
 - [ ] Grado en Informática y Servicios https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/informatica-y-servicios-escuela-adscrita-1216708258897.html?param1=1231314915546 (pdf)
-- [ ] Grado en Ingeniería de Datos https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-de-datos-1345467893054.html?param1=1345740029761 (https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/guias-docentes-1345467893062.html?param1=1345740029761)
-- [ ] Grado en Ingeniería Informática https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/x-1216708258897.html?param1=1263367146646
+- [x] Grado en Ingeniería de Datos https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/plan-de-estudios-y-horarios/ingenieria-de-datos-1345467893054.html?param1=1345740029761 (https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/guias-docentes-1345467893062.html?param1=1345740029761)
+- [x] Grado en Ingeniería Informática https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/x-1216708258897.html?param1=1263367146646
 - [ ] Doble Grado en Ingeniería Informática (Mención en Tecnologías de la Información) e Ingeniería de Sistemas de Telecomunicación
 - https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/x-1216708258897.html?param1=1345654047869
 - [ ] Doble Grado En Ingeniería Informática (Mención en Ingeniería de Computadores) e Ingeniería Electrónica de Telecomunicación https://www.uab.cat/web/estudiar/listado-de-grados/informacion-general/ingenieria-informatica-ingenieria-electronica-de-telecomunicacion-1216708258897.html?param1=1345654053765
@@ -27,7 +27,7 @@ http://www.uam.es/
 
 https://www.uc3m.es/grado/estudios
 
-- [ ] Grado en Ingeniería Informática https://www.uc3m.es/grado/informatica
+- [x] Grado en Ingeniería Informática https://www.uc3m.es/grado/informatica
 - [ ] Grado en Matemática Aplicada y Computación https://www.uc3m.es/grado/matematica-aplicada
 - [ ] Grado en Ciencia e Ingeniería de Datos https://www.uc3m.es/grado/datos
 - [ ] Doble grado en Ingeniería Informática y ADE https://www.uc3m.es/doble-grado/informatica-ade
