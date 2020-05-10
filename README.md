@@ -81,4 +81,4 @@ Mientras tanto, seguiremos recopilando datos y mejorando este repositorio.
 
 Este es un proyecto Open Source y cualquier colaboración es bienvenida, desde feedback, apertura de issues, sugerencias de cambio, o aportaciones al repositorio.
 
-> Nota: se está en un código de conducta para publicarlo en este mismo respositorio. Mientras tanto, puedes echar un vistazo al de [Microsoft](https://opensource.microsoft.com/codeofconduct/)
+> Nota: se está trabajando en un código de conducta que se publicará en este mismo respositorio. Mientras tanto, puedes echar un vistazo al de [Microsoft](https://opensource.microsoft.com/codeofconduct/)
