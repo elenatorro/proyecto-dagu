@@ -1,2 +1,7 @@
 .DS_store
 node_modules
+.notes
+notebooks/universidades/bin
+notebooks/universidades/include
+notebooks/universidades/lib
+notebooks/universidades/universidad-nacional-de-educacion-a-distancia*.csv

@@ -10,7 +10,7 @@ Universidad de Barcelona http://www.ub.edu/
 Universidad de Burgos http://www.ubu.es/ 
 Universidad de Cádiz http://www.uca.es/ 
 Universidad de Cantabria http://www.unican.es/ 
-Universidad de Castilla-La Mancha http://www.uclm.es/ 
+Universidad de Castilla-La Mancha http://www.uclm.es/
 Universidad de Córdoba http://www.uco.es/ 
 Universidad de Extremadura http://www.unex.es/ 
 Universidad de Girona http://www.udg.edu/ 
@@ -32,8 +32,6 @@ Universidad de Valladolid http://www.uva.es/
 Universidade de Vigo http://www.uvigo.es/ 
 Universidad de Zaragoza http://www.unizar.es/ 
 Universidad del País Vasco http://www.ehu.es/ 
-Universidad Internacional de Andalucía http://www.unia.es/ 
-Universidad Internacional Menéndez Pelayo UIMP http://www.uimp.es/ 
 Universidad Miguel Hernández de Elche http://www.umh.es/ 
 Universidad Nacional de Educación a Distancia U.N.E.D http://www.uned.es/ 
 Universidad Pablo de Olavide http://www.upo.es/ 
@@ -48,3 +46,5 @@ Universidad Rovira i Virgili http://www.urv.es/
 Universitat de las Illes Balears http://www.uib.es/ 
 Universitat de València http://www.uv.es/ 
 Universitat Jaume I de Castellón http://www.uji.es/
+Universitat Oberta de Catalunya https://www.uoc.edu/portal/ca/index.html
+Universitat de les Illes Balears https://www.uib.es/es/
