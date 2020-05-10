@@ -74,3 +74,9 @@ jupyter notebook
 Una vez se obtenga una muestra sobre la que trabajar, se creará una página web muy simple para evaluar cómo visualizar los datos y efectuar comparativas entre los grados universitarios.
 
 Mientras tanto, seguiremos recopilando datos y mejorando este repositorio.
+
+## ¿Quieres colaborar?
+
+Este es un proyecto Open Source y cualquier colaboración es bienvenida, desde feedback, apertura de issues, sugerencias de cambio, o aportaciones al repositorio.
+
+> Nota: se está en un código de conducta para publicarlo en este mismo respositorio. Mientras tanto, puedes echar un vistazo al de [Microsoft](https://opensource.microsoft.com/codeofconduct/)
