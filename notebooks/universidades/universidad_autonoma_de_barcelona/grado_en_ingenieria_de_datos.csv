@@ -1,0 +1,43 @@
+code,university,name,summary,area,years,num_credits,num_places,faculty,url,price_1,price_2,price_3,price_4,total_min_price,admission_mark,profile,opportunities,learning_mode,mobility_program,working_practices,basic_skills,specific_skills,transversal_skills,double_degree,schedule,subjects,languages,mentions
+2503758,Universidad Autónoma de Barcelona,Grado en Ingeniería de Datos,"
+        Cada día se crean millones de bytes de datos. El aumento de la información disponible afecta a muchas instituciones y empresas que necesitan el tratamiento de los datos como elemento que facilite y mejore los procesos productivos y de toma de decisiones, en una doble vertiente, el almacenamiento y el acceso y, por otra parte, el análisis que permite extraer información útil.
+        El elemento innovador del grado en Ingeniería de Datos de la UAB es que permite cubrir todo el ciclo de vida de los datos: 1) la obtención y la extracción de datos; 2) la representación tanto matemática como computacional; 3) la transmisión y el almacenamiento seguros; 4) el procesamiento eficiente de la información que contienen, y 5) el análisis y la visualización de la información.
+    ",Campus de Bellaterra,4,240,60,Escuela de Ingeniería,https://www.uab.cat/web/estudiar/listado-de-grados/plan-de-estudios/guias-docentes/ingenieria-de-datos-1345467893062.html?param1=1345740029761,39.53,39.53,39.53,39.53,9487.2,8.264,"
+        El estudiante que quiera cursar estos estudios debe tener interés en los avances científicos y tecnológicos. Debe ser una persona con capacidad de razonamiento lógico, que valore la calidad en el trabajo, que trabaje de manera organizada y metódica, y que esté dispuesta a integrarse en equipos interdisciplinarios.
+
+        Recomendamos que tenga una buena base matemática y también un buen nivel de inglés.
+    ",,Presencial,"
+    ","
+    ","
+        Que los estudiantes tengan la capacidad de reunir e interpretar datos relevantes (normalmente dentro de su área de estudio) para emitir juicios que incluyan una reflexión sobre temas relevantes de índole social, científica o ética.
+        Que los estudiantes hayan demostrado poseer y comprender conocimientos en un área de estudio que parte de la base de la educación secundaria general, y se suele encontrar a un nivel que, si bien se apoya en libros de texto avanzados, incluye también algunos aspectos que implican conocimientos procedentes de la vanguardia de su campo de estudio.
+        Que los estudiantes hayan desarrollado aquellas habilidades de aprendizaje necesarias para emprender estudios posteriores con un alto grado de autonomía.
+        Que los estudiantes sepan aplicar sus conocimientos a su trabajo o vocación de una forma profesional y posean las competencias que suelen demostrarse por medio de la elaboración y defensa de argumentos y la resolución de problemas dentro de su área de estudio.
+        Que los estudiantes puedan transmitir información, ideas, problemas y soluciones a un público tanto especializado como no especializado.
+    ","
+        Diseñar soluciones algorítmicas eficientes para problemas computacionales, implementarlas en forma de desarrollo de software robustos, estructurados y fáciles de mantener, y verificar su validez.
+        Concebir, diseñar e implementar sistemas de almacenamiento de datos de forma eficiente y segura.
+        Transmitir los datos de forma eficiente, exacta y segura.
+        Manipular grandes volúmenes de datos heterogéneos.
+        Utilizar con destreza conceptos y métodos propios del álgebra, cálculo diferencial e integral, métodos numéricos, estadística y optimización necesarios para la resolución de los problemas propios de una ingeniería.
+        Utilizar las técnicas propias de la probabilidad y estadística para analizar y modelar fenómenos complejos, y para resolver problemas de optimización.
+        Analizar los datos de forma eficiente para el desarrollo de sistemas inteligentes con capacidad de aprendizaje autónomo y/o para la minería de datos.
+        Comprender las técnicas de visualización de datos masivos y ser capaces de seleccionar la más adecuada para su análisis. 
+        Dominar los conceptos de empresa, marco institucional y jurídico de la empresa, organización y gestión de empresas.
+        Utilizar conceptos y métodos propios de la física y la electrónica necesarios para la resolución de los problemas que se derivan de la adquisición de datos estructurados.
+        Concebir, diseñar e implementar el sistema de adquisición de datos más adecuado para el problema concreto a resolver.
+        Concebir, diseñar e implementar sistemas inteligentes para el aprendizaje autónomo y sistemas con capacidad predictiva.
+        Concebir, diseñar e implementar aplicaciones eficientes para el análisis y gestión de datos masivos.
+        Representar los datos de forma adecuada, tanto desde el punto de vista computacional como el matemático.
+        Realizar, presentar y defender un trabajo que consista en un proyecto en el ámbito de la ingeniería de datos en el que se sinteticen e integren las competencias desarrolladas en el grado.
+    ","
+        Trabajar cooperativamente, en entornos complejos o inciertos y con recursos limitados, en un contexto multidisciplinar, asumiendo y respetando el rol de los diferentes miembros del equipo.
+        Buscar, seleccionar y gestionar de manera responsable la información y el conocimiento.
+        Desarrollar un pensamiento y un razonamiento crítico y saber comunicarlo de manera efectiva, tanto en las lenguas propias como en inglés.
+        Generar propuestas innovadoras y competitivas en la actividad profesional y en la investigación.
+        Prevenir y solucionar problemas, adaptarse a situaciones imprevistas y tomar decisiones.
+        Evaluar de manera crítica el trabajo realizado.
+        Demostrar sensibilidad hacia los temas éticos, sociales y medioambientales.
+        Planificar y gestionar el tiempo y los recursos disponibles.
+    ",False,"1er, 2º y 3er cursos, mañana y 4º curso, tarde.",,"Inglés, Catalán, Español","
+    "
